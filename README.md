@@ -1,5 +1,4 @@
-# uuid
-Distributed sequence generator service
+# Distributed sequence generator service
 
 Distributed Sequence Generator that generates 64-bit IDs based on the concepts outlined in the Twitter snowflake service:
 https://github.com/twitter/snowflake/tree/snowflake-2010
