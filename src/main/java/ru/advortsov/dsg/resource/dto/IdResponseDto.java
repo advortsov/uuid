@@ -1,15 +1,15 @@
-package ru.advortsov.uuid.resource.dto;
+package ru.advortsov.dsg.resource.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
- * UuidResponseDto.
+ * IdResponseDto.
  *
  * @author Aleksandr_Dvortsov
  */
 @Data
 @AllArgsConstructor
-public class UuidResponseDto {
+public class IdResponseDto {
     private long id;
 }

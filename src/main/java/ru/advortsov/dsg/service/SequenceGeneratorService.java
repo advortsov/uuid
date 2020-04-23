@@ -1,4 +1,4 @@
-package ru.advortsov.uuid.service;
+package ru.advortsov.dsg.service;
 
 /**
  * SequenceGeneratorService.

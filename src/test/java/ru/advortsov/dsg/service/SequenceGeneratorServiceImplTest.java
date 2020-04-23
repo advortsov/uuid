@@ -1,4 +1,4 @@
-package ru.advortsov.uuid.service;
+package ru.advortsov.dsg.service;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
