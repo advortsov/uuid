@@ -6,5 +6,6 @@ package ru.advortsov.dsg.service;
  * @author Aleksandr_Dvortsov
  */
 public interface SequenceGeneratorService {
-    long nextId();
+
+    String nextId();
 }

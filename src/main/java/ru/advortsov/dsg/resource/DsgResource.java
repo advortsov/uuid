@@ -9,9 +9,10 @@ import ru.advortsov.dsg.resource.dto.IdResponseDto;
  *
  * @author Aleksandr_Dvortsov
  */
-@RequestMapping("/next-id")
+@RequestMapping("/dsg")
 public interface DsgResource {
 
-    @GetMapping
+    @GetMapping("/next-id")
     IdResponseDto getNextId();
+
 }
