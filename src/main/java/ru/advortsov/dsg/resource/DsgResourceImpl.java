@@ -20,4 +20,5 @@ public class DsgResourceImpl implements DsgResource {
     public IdResponseDto getNextId() {
         return new IdResponseDto(sequenceGeneratorService.nextId());
     }
+
 }

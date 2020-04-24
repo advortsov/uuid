@@ -11,5 +11,5 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 public class IdResponseDto {
-    private long id;
+    private String id;
 }
